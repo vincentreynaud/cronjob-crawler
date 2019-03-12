@@ -14,53 +14,27 @@ const cheerio = require("cheerio");
 const util = require("util");
 
 const promisifiedRequest = util.promisify(request);
-
-const portals = [
-  {
-    title: "tbd",
-    url: "https://www.tbd.community/en/jobs?r=206#search",
-    selector: ".job.card .title"
-  },
-  {
-    title: "berlin-startup-jobs",
-    url: "http://berlinstartupjobs.com/engineering",
-    selector: ".product-listing-h2 a"
-  },
-  {
-    title: "linkedin",
-    url:
-      "https://www.linkedin.com/jobs/search?location=Berlin%20Area%2C%20Germany&locationId=de%3A4944&pageNum=0&position=1",
-    selector: ".listed-job-posting__title"
-  }
-];
-
-const terms = [
-  "software",
-  "entwickler",
-  "frontend",
-  "front-end",
-  "front end",
-  "developer",
-  "engineer"
-];
+const { portals, terms } = require("./lib/search");
 
 (async () => {
   console.time("TimeConsumed");
   const fullList = {};
-  // for (let site of portals) {
-  //   promises.push(promisifiedRequest(site.url));
-  // }
 
-  // Looping through sites
+  let promises = [];
   for (let site of portals) {
-    const response = await promisifiedRequest(site.url);
-    const $ = cheerio.load(response.body);
+    promises.push(promisifiedRequest(site.url));
+  }
+
+  const responses = await Promise.all(promises);
+
+  for (let i = 0; i < responses.length; i++) {
+    const $ = cheerio.load(responses[i].body);
 
     const jobs = [];
-    const postings = $(site.selector);
+    const postings = $(portals[i].selector);
 
     if (postings.length <= 0) {
-      console.log(`No job postings found on ${site.title}`);
+      console.log(`No job postings found on ${portals[i].title}`);
       return;
     }
 
@@ -75,6 +49,7 @@ const terms = [
           typeof jobTitle === "undefined" ||
           jobTitle === ""
         ) {
+          console.log("some weird stuff here");
           return;
         }
 
@@ -84,13 +59,17 @@ const terms = [
       }
     });
 
-    fullList[site.title] = jobs;
+    fullList[portals[i].title] = jobs;
     console.log(fullList);
     // console.log("Site:", site.title);
     // console.log("Found jobs: ", jobs);
 
     //TODO save found jobs to MLAB mongo
     //TODO send a mail with new jobs and already found jobs to your self
+  }
+
+  // Looping through sites
+  for (let site of portals) {
   }
 
   console.timeEnd("TimeConsumed");
