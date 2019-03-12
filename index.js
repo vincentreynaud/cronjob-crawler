@@ -33,16 +33,40 @@ const { portals, terms } = require("./lib/search");
     const jobs = [];
     const postings = $(portals[i].selector);
 
-    if (postings.length <= 0) {
+    if (!postings.length) {
       console.log(`No job postings found on ${portals[i].title}`);
       return;
     }
 
-    postings.each((i, elem) => {
-      const jobTitle = $(elem).text();
+    postings.each((n, elem) => {
+      let url = "";
+      let jobTitle = "";
+
+      if (portals[i].baseUrl) url = portals[i].baseUrl;
+
+      switch ($(elem)[0].tagName) {
+        case "a": // for Creative City Berlin
+          url += $(elem)[0].attribs.href;
+          jobTitle = $(elem)
+            .find("h2")
+            .text();
+          break;
+
+        case "h2": // for Berlin Startup Jobs
+          url += $(elem).find("a")[0].attribs.href;
+          jobTitle = $(elem).text();
+          break;
+
+        case "article": // for tbd
+          url += $(elem).find("a")[0].attribs.href;
+          jobTitle = $(elem)
+            .find(".title")
+            .text();
+          break;
+      }
 
       for (let term of terms) {
-        term = new RegExp(term, "i");
+        const regex = new RegExp(term, "i");
 
         if (
           typeof jobTitle !== "string" ||
@@ -53,8 +77,11 @@ const { portals, terms } = require("./lib/search");
           return;
         }
 
-        if (jobTitle.match(term)) {
-          jobs[i] = jobTitle;
+        if (jobTitle.match(regex)) {
+          jobs[n] = {
+            jobTitle,
+            link: url
+          };
         }
       }
     });
