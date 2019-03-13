@@ -1,7 +1,15 @@
+"use strict";
+
+/**
+ * - cron job https://www.npmjs.com/package/node-cron
+ * - check gmail plugin
+ * - use mLab to save to database
+ * - check if the pages respond with html or are a SPA
+ * - deploy to now
+ */
+
 const crawl = require("./lib/crawl");
 const mail = require("./lib/mail");
-
-//TODO use https://www.npmjs.com/package/node-cron to run the crawler in a regular interval
 
 (async () => {
   const content = await crawl();
