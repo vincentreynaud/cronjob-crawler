@@ -1,0 +1,6 @@
+each site in content
+  h2=site.site
+  each job in site.jobs
+    a(href=job.url target="_blank")=job.title
+    br
+  hr

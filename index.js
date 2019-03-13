@@ -8,24 +8,16 @@
  * - deploy to now
  */
 
+const pug = require("pug");
 const crawl = require("./lib/crawl");
 const mail = require("./lib/mail");
+const fs = require("fs");
 
 (async () => {
   const content = await crawl();
 
-  let str = "";
-  console.log("content", content);
-  content.forEach(site => {
-    str += "=================== \n \n";
-    site.forEach(posting => {
-      str += `${posting.title}: \n`;
-      str += `${posting.url} \n`;
-      str += `\n`;
-    });
-  });
+  const html = pug.renderFile("./lib/email.pug", { content });
+  fs.writeFileSync("./lib/email.html", html);
 
-  // console.log("str", str);
-
-  // await mail(str);
+  // await mail(html);
 })();
