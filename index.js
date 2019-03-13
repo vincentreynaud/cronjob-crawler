@@ -11,8 +11,8 @@ const mail = require("./lib/mail");
   content.forEach(site => {
     str += "=================== \n \n";
     site.forEach(posting => {
-      str += `${posting.jobTitle}: \n`;
-      str += `${posting.link} \n`;
+      str += `${posting.title}: \n`;
+      str += `${posting.url} \n`;
       str += `\n`;
     });
   });
