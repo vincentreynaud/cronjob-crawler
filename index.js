@@ -16,8 +16,11 @@ const fs = require("fs");
 (async () => {
   const content = await crawl();
 
+  // console.log("content", content);
+
   const html = pug.renderFile("./lib/email.pug", { content });
   fs.writeFileSync("./lib/email.html", html);
+  console.log("html file ready");
 
   // await mail(html);
 })();
