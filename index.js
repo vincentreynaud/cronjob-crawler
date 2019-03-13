@@ -19,5 +19,6 @@ const mail = require("./lib/mail");
 
   console.log("str", str);
 
-  // mail(str);
+  const mailResponse = await mail(str);
+  console.log(mailResponse);
 })();
