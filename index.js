@@ -10,6 +10,7 @@
 
 const pug = require("pug");
 const crawl = require("./lib/crawl");
+const inspect = require("./lib/inspect/inspect");
 const mail = require("./lib/mail");
 const fs = require("fs");
 
@@ -18,7 +19,18 @@ const fs = require("fs");
 
   const html = pug.renderFile("./lib/email.pug", { content });
   fs.writeFileSync("./lib/email.html", html);
-  console.log("html file ready");
+  console.log("HTML job list ready");
+
+  /*
+  const inspectBody = await inspect();
+  for (let i = 0; i < inspectBody.length; i++) {
+    fs.writeFileSync(
+      `./lib/inspect/inspect-body-${i + 1}.html`,
+      inspectBody[i]
+    );
+  }
+  console.log("HTML body inspect files ready");
+  */
 
   // await mail(html);
 })();
