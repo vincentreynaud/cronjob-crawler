@@ -8,24 +8,24 @@
  * - deploy to now
  */
 
-const pug = require("pug");
-const crawl = require("./lib/crawl");
-const inspect = require("./lib/inspect/inspect");
-const mail = require("./lib/mail");
 const fs = require("fs");
+const pug = require("pug");
+const crawl = require("./crawl");
+const inspect = require("./lib/inspect/inspect");
+const mail = require("./mail");
 
 (async () => {
   const content = await crawl();
 
-  const html = pug.renderFile("./lib/email.pug", { content });
-  fs.writeFileSync("./lib/email.html", html);
+  const html = pug.renderFile("./src/lib/email.pug", { content });
+  fs.writeFileSync("./src/lib/email.html", html);
   console.log("HTML job list ready");
 
   /*
   const inspectBody = await inspect();
   for (let i = 0; i < inspectBody.length; i++) {
     fs.writeFileSync(
-      `./lib/inspect/inspect-body-${i + 1}.html`,
+      `./src/lib/inspect/inspect-body-${i + 1}.html`,
       inspectBody[i]
     );
   }

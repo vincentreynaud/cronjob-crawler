@@ -3,8 +3,8 @@
 require("dotenv").config();
 
 const nodemailer = require("nodemailer");
-const logger = require("./logger");
-const MailError = require("./MailError");
+const logger = require("./lib/logger");
+const MailError = require("./lib/MailError");
 
 const dateRaw = new Date();
 const date = dateRaw.toLocaleString("de-De", {

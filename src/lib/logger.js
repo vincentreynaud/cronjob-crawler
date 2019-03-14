@@ -1,7 +1,6 @@
 "use strict";
 
 const fs = require("fs");
-const util = require("util");
 
 const logger = message => {
   const stream = fs.createWriteStream("cron.log", {

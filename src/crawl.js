@@ -1,12 +1,14 @@
 "use strict";
 
+// connect to mLab: mongodb://${process.env.DB_USER}:${process.env.DB_PW}@ds127115.mlab.com:27115/cronjob-crawler
+
 const request = require("request");
 const cheerio = require("cheerio");
 const util = require("util");
 
 const promisifiedRequest = util.promisify(request);
-const logger = require("./logger");
-const { portals, terms } = require("./search");
+const logger = require("./lib/logger");
+const { portals, terms } = require("./lib/search");
 
 const crawl = async () => {
   console.time("TimeConsumed");
