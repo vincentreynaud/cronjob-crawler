@@ -2,6 +2,7 @@
 
 /**
  * - cron job https://www.npmjs.com/package/node-cron
+ * - move new offers to top
  * - check gmail plugin
  * - use mLab to save to database
  * - check if the pages respond with html or are a SPA
@@ -16,6 +17,8 @@ const mail = require("./mail");
 
 (async () => {
   const content = await crawl();
+
+  console.log("content", content[0].jobs);
 
   const html = pug.renderFile("./src/lib/email.pug", { content });
   fs.writeFileSync("./src/lib/email.html", html);
