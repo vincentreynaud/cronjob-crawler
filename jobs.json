@@ -1,0 +1,825 @@
+[
+  {
+    "site": "tbd",
+    "jobs": [{ "title": "No jobs found on https://www.tbd.community/en/jobs?r=206#search", "url": null }]
+  },
+  {
+    "site": "berlin-startup-jobs",
+    "jobs": [
+      {
+        "title": "Automotive Software Engineer (m/f)",
+        "company": " — Asaphus Vision",
+        "url": "https://berlinstartupjobs.com/engineering/automotive-software-engineer-m-f-asaphus-vision-gmbh/"
+      },
+      {
+        "title": "Senior iOS Developer",
+        "company": " — Idagio",
+        "url": "https://berlinstartupjobs.com/engineering/senior-ios-developer-idagio/"
+      },
+      {
+        "title": "iOS Developer",
+        "company": " — AMBOSS",
+        "url": "https://berlinstartupjobs.com/engineering/ios-developer-amboss/"
+      },
+      {
+        "title": "Elixir Software Engineer",
+        "company": " — flyiin",
+        "url": "https://berlinstartupjobs.com/engineering/elixir-software-engineer-flyiin/"
+      },
+      {
+        "title": "Elixir Developer",
+        "company": " — adjust",
+        "url": "https://berlinstartupjobs.com/engineering/elixir-developer-adjust/"
+      },
+      {
+        "title": "Principal Cloud Engineer (m/f/div)",
+        "company": " — PubNative",
+        "url": "https://berlinstartupjobs.com/engineering/principal-cloud-engineer-m-f-div-pubnative-gmbh/"
+      },
+      {
+        "title": "Fullstack Engineer (JavaScript / React / Java) – Retail Operations",
+        "company": " — Zalando SE",
+        "url": "https://berlinstartupjobs.com/engineering/fullstack-engineer-javascript-react-java-retail-operations-zalando-se/"
+      },
+      {
+        "title": "Data Backend Developer",
+        "company": " — adjust",
+        "url": "https://berlinstartupjobs.com/engineering/data-backend-developer-adjust/"
+      },
+      {
+        "title": "Senior Software Engineer / Search Platform & Routing Team",
+        "company": " — GoEuro",
+        "url": "https://berlinstartupjobs.com/engineering/senior-software-engineer-search-platform-routing-team-goeuro/"
+      },
+      {
+        "title": "Senior Embedded Engineer",
+        "company": " — mitte",
+        "url": "https://berlinstartupjobs.com/engineering/senior-embedded-engineer-mittemitte-gmbh/"
+      },
+      {
+        "title": "Java Full Stack Developer (m/f/d)",
+        "company": " — lieferando",
+        "url": "https://berlinstartupjobs.com/engineering/java-full-stack-developer-m-f-d-lieferando/"
+      },
+      {
+        "title": "(Senior) Solutions Engineer (m/f/x)",
+        "company": " — Freshworks",
+        "url": "https://berlinstartupjobs.com/engineering/senior-solutions-engineer-m-f-x-freshworks-gmbh/"
+      },
+      {
+        "title": "Senior Java Developer (m/f/d)",
+        "company": " — movingimage",
+        "url": "https://berlinstartupjobs.com/engineering/senior-java-developer-m-f-d-movingimage/"
+      },
+      {
+        "title": "Senior Frontend Developer",
+        "company": " — Dalia Research",
+        "url": "https://berlinstartupjobs.com/engineering/senior-frontend-developer-dalia-research/"
+      },
+      {
+        "title": "Senior Ruby on Rails Developer (m/w)",
+        "company": " — Vehiculum",
+        "url": "https://berlinstartupjobs.com/engineering/senior-ruby-on-rails-developer-m-w-vehiculum-mobility-solutions-gmbh/"
+      },
+      {
+        "title": "Tech Lead Ruby Engineer",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/tech-lead-ruby-engineer-solarisbank/"
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "company": " — MX Healthcare",
+        "url": "https://berlinstartupjobs.com/engineering/quality-assurance-engineer-mx-healthcare/"
+      },
+      {
+        "title": "Senior Golang Engineer (f/m/div) at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/senior-golang-engineer-f-m-div-at-solarisbank-ag-solarisbank/"
+      },
+      {
+        "title": "Senior Ruby Engineer (m/f/div) at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/senior-ruby-engineer-m-f-div-at-solarisbank-ag-solarisbank/"
+      },
+      {
+        "title": "Senior Data Engineer for Team Data Platform (f/m) at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/senior-data-engineer-for-team-data-platform-f-m-at-solarisbank-ag-solarisbank/"
+      },
+      {
+        "title": "Professional Ruby Engineer at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/professional-ruby-engineer-at-solarisbank-ag-solarisbank/"
+      },
+      {
+        "title": "Platform Engineer (f/m/div) at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/platform-engineer-f-m-div-at-solarisbank-ag-solarisbank/"
+      },
+      {
+        "title": "Elixir Engineer (f/m/div) at solarisBank AG",
+        "company": " — solarisBank",
+        "url": "https://berlinstartupjobs.com/engineering/elixir-engineer-f-m-div-at-solarisbank-ag-solarisbank/"
+      }
+    ]
+  },
+  {
+    "site": "creative-city-berlin",
+    "jobs": [
+      { "title": "Developer/in", "company": " — ", "url": "https://www.creative-city-berlin.de/en/jobs/job/7741277/" },
+      {
+        "title": "Senior C++ Developer / C++ Computer Graphics Developer",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741321/"
+      },
+      {
+        "title": "Senior Web Backend &#038; Frontend Developer",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741322/"
+      },
+      {
+        "title": "Webdesigner(in)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741323/"
+      },
+      {
+        "title": "Senior Game Developer &#8211; HTML5 / JavaScript",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741330/"
+      },
+      {
+        "title": "Senior FullStack JavaScript Developer (f/m)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741332/"
+      },
+      {
+        "title": "Senior Category Manager / Einkäufer / Produktentwickler (m/w/d)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7739420/"
+      },
+      {
+        "title": "Senior Frontend Engineer (m/f/d)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7739958/"
+      },
+      {
+        "title": "Business Developer (m/w/d)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741105/"
+      },
+      {
+        "title": "Senior Data Engineer (m/f/d)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741045/"
+      },
+      {
+        "title": "Frontend Engineer (m/w/d)",
+        "company": " — ",
+        "url": "https://www.creative-city-berlin.de/en/jobs/job/7741024/"
+      }
+    ]
+  },
+  {
+    "site": "github-jobs",
+    "jobs": [
+      {
+        "title": "Software Engineer Python/Django (m/f/x)",
+        "company": " — Thermondo GmbH",
+        "url": "https://jobs.github.com/positions/a486d99f-d3ec-4a89-aafe-e312e8b85f2b"
+      },
+      {
+        "title": "Sr. Android Engineer (Java/Kotlin) (m/f/x) ",
+        "company": " — Thermondo GmbH",
+        "url": "https://jobs.github.com/positions/09f5a92d-7af6-4d67-8e00-f64cb8e6ec49"
+      },
+      {
+        "title": "Software Engineer, Feature (m,f,d)",
+        "company": " — KREATIZE",
+        "url": "https://jobs.github.com/positions/99f68903-534a-4e07-a87a-df8ee813fc94"
+      },
+      {
+        "title": "Salesforce Developer (m/f/x)",
+        "company": " — Thermondo GmbH",
+        "url": "https://jobs.github.com/positions/a7c1437a-2935-46f0-bdad-fa6630a0bb82"
+      },
+      {
+        "title": "C++ Engineer Plugin/Audio Development (f/m/d)",
+        "company": " — Holoplot GmbH",
+        "url": "https://jobs.github.com/positions/af9951d5-5fca-46bb-85e9-8795e2a8d605"
+      },
+      {
+        "title": "Android Developer",
+        "company": " — Free2Move",
+        "url": "https://jobs.github.com/positions/42a87e4b-74bf-462f-9f87-467768e70f60"
+      },
+      {
+        "title": "Senior C++ Developer – Candy Crush Franchise",
+        "company": " — King",
+        "url": "https://jobs.github.com/positions/40af41fb-d70c-49e3-9264-14a064812830"
+      },
+      {
+        "title": "Backend Developer Ruby/Elixir",
+        "company": " — Cobot",
+        "url": "https://jobs.github.com/positions/cb1e9170-e832-11e8-8c0b-1d1828cf3aff"
+      },
+      {
+        "title": "Backend Engineer (f/m) Routing algorithms",
+        "company": " — moovel Group GmbH",
+        "url": "https://jobs.github.com/positions/f62726c8-e1d6-11e8-96fe-e8de2ac8aeb6"
+      },
+      {
+        "title": "Backend Engineer (f/m) Node.js",
+        "company": " — moovel Group GmbH",
+        "url": "https://jobs.github.com/positions/a412770a-e1d3-11e8-8b9f-cf224f66af92"
+      },
+      {
+        "title": "Senior Mobile Developer | iOS",
+        "company": " — reBuy reCommerce GmbH",
+        "url": "https://jobs.github.com/positions/547b8a96-dc5c-11e8-97cc-5b8cae901903"
+      },
+      {
+        "title": "Client-facing Software Engineer",
+        "company": " — Datawrapper",
+        "url": "https://jobs.github.com/positions/861ca26c-dc4b-11e8-8a59-311f92072400"
+      }
+    ]
+  },
+  {
+    "site": "jobs-in-berlin",
+    "jobs": [
+      {
+        "title": "Senior Frontend Web Developer (relocation offered)",
+        "company": " — Zooplus",
+        "url": "http://www.jobsinberlin.eu/jobs/senior-frontend-web-developer-relocation-offered/VQm3qmqV?jlt=dDoxMCxwOjEsczoyNSxvOjE"
+      },
+      {
+        "title": "Java Web Developer",
+        "company": " — Darwin Recruitment",
+        "url": "http://www.jobsinberlin.eu/jobs/java-web-developer/VepwE71Y?jlt=dDoxMCxwOjEsczoyNSxvOjI"
+      },
+      {
+        "title": "PHP Web Developer",
+        "company": " — Speexx",
+        "url": "http://www.jobsinberlin.eu/jobs/php-web-developer/ZG6OwA6v?jlt=dDoxMCxwOjEsczoyNSxvOjM"
+      },
+      {
+        "title": "Web Analyst (f/m)",
+        "company": " — Idealo Internet GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/web-analyst-f-m/VLK2LbjY?jlt=dDoxMCxwOjEsczoyNSxvOjQ"
+      },
+      {
+        "title": "PHP Web Developer",
+        "company": " — Speexx",
+        "url": "http://www.jobsinberlin.eu/jobs/php-web-developer/vD1N3n2Z?jlt=dDoxMCxwOjEsczoyNSxvOjU"
+      },
+      {
+        "title": "Senior Web Developer",
+        "company": " — Venturi Germany GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/senior-web-developer/V3wPObQV?jlt=dDoxMCxwOjEsczoyNSxvOjY"
+      },
+      {
+        "title": "Web Analyst (m/f/d)",
+        "company": " — MediaMarktSaturn Technology",
+        "url": "http://www.jobsinberlin.eu/jobs/web-analyst-m-f-d/VXD3abeV?jlt=dDoxMCxwOjEsczoyNSxvOjc"
+      },
+      {
+        "title": "Junior web developer - Frankfurt - €50,000",
+        "company": " — Optimus Search",
+        "url": "http://www.jobsinberlin.eu/jobs/junior-web-developer-frankfurt-50-000/VLp3m3XV?jlt=dDoxMCxwOjEsczoyNSxvOjg"
+      },
+      {
+        "title": "Junior web developer - Frankfurt - €50,000",
+        "company": " — Optimus Search",
+        "url": "http://www.jobsinberlin.eu/jobs/junior-web-developer-frankfurt-50-000/Zx2x2XRV?jlt=dDoxMCxwOjEsczoyNSxvOjk"
+      },
+      {
+        "title": "Senior Web Developer (m/f)",
+        "company": " — Venturi Germany GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/senior-web-developer-m-f/V1MDaobV?jlt=dDoxMCxwOjEsczoyNSxvOjEw"
+      },
+      {
+        "title": "Senior Web Developer (m/f)",
+        "company": " — Venturi Germany GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/senior-web-developer-m-f/Zz4wOkmV?jlt=dDoxMCxwOjEsczoyNSxvOjEx"
+      },
+      {
+        "title": "Web Analyst (m/w/d)",
+        "company": " — internetstores GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/web-analyst-m-w-d/vkOmlN2v?jlt=dDoxMCxwOjEsczoyNSxvOjEy"
+      },
+      {
+        "title": "Web Developer (m/f/d)",
+        "company": " — Modix GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/web-developer-m-f-d/VB9ABKgY?jlt=dDoxMCxwOjEsczoyNSxvOjEz"
+      },
+      {
+        "title": "Web Developer (m/f/d)",
+        "company": " — Modix GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/web-developer-m-f-d/ZG6Bp05v?jlt=dDoxMCxwOjEsczoyNSxvOjE0"
+      },
+      {
+        "title": "Software Engineer - Web (m/f/d) - Hamburg",
+        "company": " — Yelp",
+        "url": "http://www.jobsinberlin.eu/jobs/software-engineer-web-m-f-d-hamburg/VwQ1O10Z?jlt=dDoxMCxwOjEsczoyNSxvOjE1"
+      },
+      {
+        "title": "Java Web Developer (m/f/d)",
+        "company": " — 1&1",
+        "url": "http://www.jobsinberlin.eu/jobs/java-web-developer-m-f-d/v4nglK6Y?jlt=dDoxMCxwOjEsczoyNSxvOjE2"
+      },
+      {
+        "title": "Junior Java Web Developer - Karlshrue - €50,000",
+        "company": " — Optimus Search",
+        "url": "http://www.jobsinberlin.eu/jobs/junior-java-web-developer-karlshrue-50-000/vMqdqgEv?jlt=dDoxMCxwOjEsczoyNSxvOjE3"
+      },
+      {
+        "title": "Data Engineer (m/f/d) - Web Tracking",
+        "company": " — CHECK24",
+        "url": "http://www.jobsinberlin.eu/jobs/data-engineer-m-f-d-web-tracking/V1MD5gMV?jlt=dDoxMCxwOjEsczoyNSxvOjE4"
+      },
+      {
+        "title": "Web Developer (m/f/x) Frontend",
+        "company": " — VB-Business-Group",
+        "url": "http://www.jobsinberlin.eu/jobs/web-developer-m-f-x-frontend/v2Jb0Lev?jlt=dDoxMCxwOjEsczoyNSxvOjE5"
+      },
+      {
+        "title": "Front-End Web Developer (m/w/d)",
+        "company": " — P3 Group GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/front-end-web-developer-m-w-d/Zj36yLDY?jlt=dDoxMCxwOjEsczoyNSxvOjIw"
+      },
+      {
+        "title": "Website Optimization Customer Support (m/f/d)",
+        "company": " — Workstation AG Personaldienstleistungen",
+        "url": "http://www.jobsinberlin.eu/jobs/remote/aHR0cDovL2RlLmluZGVlZC5jb20vcGFnZWFkL2Nsaz9tbz1yJmFkPS02TllsYmZrTjBBdzFlZkFNemxkRHpwb0lKdDNkaC1XczQzUzMwZHJYUTZqRlFxa0lpc191NlJ2Z0tHRUZyNkdFUjhqRVZ6WWJHQ2NKRWVKNzBZSTh0ZDEyMjByNVRUbHFvM2Jmc2xlaTI1WWZ6bXctSlZHcG11S0Juel92Y2RwNUdEbDdmSWJtN0tHTTVXY19iWUpyZ0ZQMURGVHM3Tno1d2EwWUVackExUGVoZnVNMFRiejd1ZmpmWXh5VE1pbHFTYkE0QzEybk5rSDI0aHd4akR1RXhIX3NzQ3FsNEdSTm9LRm54aFpJOUJuUS1XdVlmME85WmREbUJSY25GYlZjRXJ3dnd4NlFEaHpVZUtOZF8xN0pzeHFrbWhoczJfbExwZTNBOTI0eEpROGp4OUl1dFNoRTN6TGswZXJJQ1dwbW9SWnhFTUFwWHBfY2ItZlN3OW5BWjJIZk54MUIzRGlfMGU1N0RZemVQd2R0eld6STk2WlBLbzRTNGZDSlM5NFRzMnpLZlVPbGhCOHg1UlVhVFdvMk1IT3ctWExDTzlJSy1wS01LcU9GSEVuM3BYMnVKYlNvbmJ5Q1BOUmFjWHo0SldTdE9pME41UHJkcmlkQzhrT2pMemh6QmZCZ2RDdUV5bFUtRGFLYktPTzJQMDctN0ZnNVVRb24yVmhhSUl4dlBGLVBBQ21GQnZOUm5VVXdLaUszUUNPdVQ3b0ptbEo4dDJaLWdHSy1lTUc5Ni1SUHpZU1VRaHBKdnR2ZFV5NzgtUVdTMnJiYXVUN2NMYVJCMVVuVng1Q3J2c2wyMzBFRUFmSmxHYkQzaHdpY1o3Z0dkNk0zeWRYbE9lLWhBRTRkdlVUbC1ocjhzZDNzbGdJaFR6OWlQU2s5MzNISEVaQnJFWHVjUE9wUnFfNFF2RmR3S19XUlVfbUJ5V0lRblI2U2xLaERfQUphSXJmNW03T3d1a2thZjZGenhLXzZuZkRkbUJUQ3k2VnUwOVdJVEZDdGwyQnhrRGJqWm1YdDR0MkVlbFRWOHIwbms0dWpLdFF4NDFfQ092ejZSWXRXVjRrMk1wcm5xMlB5alRNWUk5LVVDMTFkbVM1U3BVX0hjQlluYm93eTRIaWV3MUZnTl9iNGx1dGZWVm5QSTMtNHhCYXBmSkdCQk42QjR1dnR3OXROc0Y1ZFE9PSZwPTAmcmpzPTEmYXRrPTFkN2NyZTI3ZjBqNDgwMDEmanNhPTUxMDMmaW5jaGFsPWFwaXJlc3VsdHMmdGl0bGU9V2Vic2l0ZStPcHRpbWl6YXRpb24rQ3VzdG9tZXIrU3VwcG9ydCslMjhtJTJGZiUyRmQlMjkmamlwaWQ9Nw==?source=indeed&jk=64d96856a352a682&jlt=dDoxMCxwOjEsczoyNSxvOjIx"
+      },
+      {
+        "title": "Front End developer",
+        "company": " — Cogs Agency",
+        "url": "http://www.jobsinberlin.eu/jobs/remote/aHR0cDovL2RlLmluZGVlZC5jb20vcGFnZWFkL2Nsaz9tbz1yJmFkPS02TllsYmZrTjBBdzFlZkFNemxkRHpwb0lKdDNkaC1XczQzUzMwZHJYUTZqRlFxa0lpc191NlJ2Z0tHRUZyNkdFUjhqRVZ6WWJHQ3duZGtGWlJIbW54RnpzeGVHaVBKOVBnRXduMU9DSUp3X2N4WFdQcEFTYlNTcXdKcTNIeWJvcUVteklwV2wzVHp0NjlIS1IwRXZBRFpqQ3RNeDZ4NEoyTHMzZk85eHhYWkdZQnBaT1VmMjExdnZIZkk4XzlYOUh0QVhNT0NjRndzeFNiVzRQQ3Z3NnhlMmprZzVkMFdHbDFsXzh3aGxWQXBVVDgzbmtVaGx1el9iLVlRSzdGRjc2dVNwRG1mUERtWEZyVTFOM1VjZGlmaDBiMl85eWxXc2JvenVET1NENC12MEcydkdZSGVrMVpqcUQ5bEJrcjdHdl90alRyZEVFZGJndUlvak9GcWU2ZlNpRWNMOHBsWnhYLWlMUU1acjkxaGZtSF9BQXloeGhFMHdiYU9Qdjk3YWxhNjNUNWZ0WmxVTWxXbXNnUHExc3ZnQ3hTZUtEcWh4eXkwcTM4UnJtU1ZDOUlCR2JwcXEzbzFGMUZzRHplOV85bV8zUS1IRFdPVzV4SW8tdjBSbklxdnFrMF83bHBXQndMQWZyaUdBaEY0ZVRvcGNFZnJOQUQwRl9IV2UxZWU2X3BSQUJvcU05b2t6SkRkZDQ0Zno3d3ctMWZyZWdVUWhsTk91bjZCSUY0T2xJd1hBQ1Ruc1hZS3BsLWwxQjlPM2ZZSHBDSHd0RjBJU1NFMEpjWDZJX2EyU3BoczRsSWpqdWJnZi0xZDZ3cUozcWU4U0UzZFVCQk9MU1NwZlhsSlp0STZ1UFBVeERHTGVfX0RMVnp6MjJ3Z1hmZXdiby0zM0g3NFVJR1V0WTNES3g1d3lkRnhJOUtpcW9wd3Z3WlRULWo3bzdzSEdyUHhLalJSOW15dy1iSFptSktVRDhJc3JoLXpseFE1OExNbGtVNHB1azZTMTMxOXJfeERqTXY4ZHp1d05rWUZpNjJ2R1llQVpIU29zTkRVOXNnMFR2TTV1TXQ5c2VqWGZHVHV1UnlBeXBYOEU5S0diSlZWSWVDMkVsTjY2UWltX0FXMUtYNmlxTnF6M0FqUkJBaFNMWlBpcVNYdUlLWDhOelZSSEtDYndPWkJXQ3c9PSZwPTImcmpzPTEmYXRrPTFkN2NyZTI3ZjBqNDgwMDEmanNhPTUxMDMmaW5jaGFsPWFwaXJlc3VsdHMmdGl0bGU9RnJvbnQrRW5kK2RldmVsb3BlciZqaXBpZD03?source=indeed&jk=05bdc258a9cd1cb9&jlt=dDoxMCxwOjEsczoyNSxvOjIz"
+      },
+      {
+        "title": "Front-End Developer (f/m)",
+        "company": " — PrestaCap",
+        "url": "http://www.jobsinberlin.eu/jobs/remote/aHR0cDovL2RlLmluZGVlZC5jb20vcGFnZWFkL2Nsaz9tbz1yJmFkPS02TllsYmZrTjBBdzFlZkFNemxkRHpwb0lKdDNkaC1XczQzUzMwZHJYUTZqRlFxa0lpc191NlJ2Z0tHRUZyNkdFUjhqRVZ6WWJHQ3FSNGx3NFh4VnNDR2dxa3VBMTlwNWhtdXYzUUdHVEstdUpjaVdDd3ZlZWt6WmFncU9jRVhyOTZXVldyUmNsLWFJSEZKNG5CaXB4RmZ3SFBxbjYtQWlfSmZsYnNYT3I4el82X2Ewc2JTcUpGRjVmTEZvekdnTkNnMWFIZW1YSHZSUWtjZEpnaXF5WFRNX2cxeTRkRm9SeGdMb3JSNFFvNFBCUkV2RmtqZmhOUVVLV0JiSl9fMGQ4VEctSmkyTE1Ia3U2UlhKNURNUWU1LUc1VVMzUTk0OEQ1NEw1OHJjMGpBUjNyeWs3SmFUTGRkMlhHYlN0YjlXdjhnUXpJMEYxSjFTajVNRjM1eXVaUEZjSklOUXhIcTAxWkNiQUJjYXVWYlp5SURnUVpYb2VUV0JfRktzU2NOVVpRUFVzcGRlQ2thWUlPV01QY3RRSWNkN0pEWERsYWVmbTlfTk4tM3dmT2FOZUxyNEtCbnVLYzI5SmZNaE9wVklJRnIzWHVwQ1hNOFlDUEJwUURkUklnZUVXenlRbE13Zzd4N1ZuVFJMb3Y1WGFUaGQzTmdtWlRJSHp4X2VEa0l1VkVsQ0NHcHhid0tMdmRYbkVXQVBmUWF5T1ZhaFBfOVJKYVBLTUVHcF8td0NYODFDdkJqallUZVpMdWNEeFNCUzF3LU1senVqdEFZS2xNNmtlNmlLQlprdFdSVFprei1WSHpzZy1aNndnbDdUUXV0N002clNQYzB4MjFzRXBBNVFJTDE2T25fSktsUEdUZ0R6WUZrdFNpV2Q0MXpLUGFUOFMtRVlqOVNRNjNPOHhtWFJHb1Bhd0JIX0pEY05PZVZFdUZPaG1BWmhSYkxzY2tLX0t1MTR6eUd5WEVKRnJySGhVbTlDRHQ1Z1E1eDk2NDY4MWJEdDQ3MEkwZy1BaWoybGY3T2FhbndrdlIzZUQ4dnppRzR2d3VJM2pNWDJacWFjMG9hUVlBUmo4WktZa3JMYkNFc2IyOTZkZEFzZW5La0hZSkVDY21NMkkxNDNiVTdsRVZfZkI2ZUtmUVhMOVNwQ2ZmbE91ZFpMSURhbDc2dlNEUVVRTWxsVncwMDlYVndMJnA9MyZyanM9MSZhdGs9MWQ3Y3JlMjdmMGo0ODAwMSZqc2E9NTEwMyZpbmNoYWw9YXBpcmVzdWx0cyZ0aXRsZT1Gcm9udC1FbmQrRGV2ZWxvcGVyKyUyOGYlMkZtJTI5JmppcGlkPTc=?source=indeed&jk=925f39ff947b737c&jlt=dDoxMCxwOjEsczoyNSxvOjI0"
+      },
+      {
+        "title": "Junior Front-end Developer",
+        "company": " — Fit Analytics GmbH",
+        "url": "http://www.jobsinberlin.eu/jobs/remote/aHR0cDovL2RlLmluZGVlZC5jb20vcGFnZWFkL2Nsaz9tbz1yJmFkPS02TllsYmZrTjBBdzFlZkFNemxkRHpwb0lKdDNkaC1XczQzUzMwZHJYUTZqRlFxa0lpc191NlJ2Z0tHRUZyNkdFUjhqRVZ6WWJHQ2JJT1Axd3ZPSElrU25mT3lYbUFPRUdvZFFvUzhHdmZ0NzJOZjl5UURuQlZIaHFFMTBsTmJkZWVWUGhoR21YN1ltdEZUZUhoYzJxTnNjOWxETE1LVFB5d1BiRHM3TEUtSVlOS1NFOXVSMFo5SzFlT21hVHg1V0E2ZW9uc2dmQmdMN1hQVjZvV2otWFNRbWhtNHhSaUtLWGFwU3p2U2VuRVNPRHBOQmp4cFpmN2hXWDZ0NVRsN2Rqdk9uWG1DTGtwNUxUZzMtQnR1RHNxeVdHcV9TdkdMV09LdW43OFRiUWtZM0FWX2w2VHAxZjJxanRPUFBVeHloRktlamd0ZjZudlRoVUZSbEF4a2VrVEZUaEhFQzJSSDk5aXRKb0EtZzBad19tX0IxMjZXUkVlX0dtUG5LOGJOSGc4UUJZNWZXMW9DZm5TQ2d3NmZIQ216Um5SZDBuaHoxOXJFR1d4Zk9OMzZIWU9oM05HaWxoTWs1NDRjQ3FiVzJRMHI0WElqN01DWHZjR2lmZnJBdDkzNmY4YTVfVGQ0REdhbm9RNmZsejV2djQtOW1hMHoyRVJsa0U2bVJWUkFsSHhJYlNiRUlxbnpIbzRkSGtweGNETUUwR1JWbDdTM2E0cmxIcnBENXgyTS1hX0phR19QRUlfb2xFVFYxRE1sUUV2emNNeTRhLUVSWjJqTUxzNE5wNHk0Sk0tbjBvX2hMOTh3Q2FGd0c2WW9qZnBvc1BvUkRBQkxKZ2NxOG9QT0pqcnVKd2NfNjFSVl9ZSVk1a1hsS2Z3Rk56Y2FpQlhyV0ZfOWtaeDBHUzFFZEVTYmJkZFdobkI5M2d6Q0VYWThnVVlUdXlBcHNPQnFsTDFKbDAwOXE0VUtrMkNBVnQ5RjBBeXhpenZfZmZWcDJrai0yUVJHbUh0eVRqRk9pUTJTckVmeUVFZDUwRWVQaVFjbTFnSUN4MVNZTk11Nk1PQldMV2lCemtYTFVRSW4tWkZ2dGF0VzVzcHQxUGtVX3RDdkEtMFd6OXpOUVZwQnBjU0lIdVR0UkJmMnBVUjgxZEk0d3htRTZRYkxXajBZVF9vUENVTGlVWVIzNzJyc1UzU2pWJnA9NCZyanM9MSZhdGs9MWQ3Y3JlMjdmMGo0ODAwMSZqc2E9NTEwMyZpbmNoYWw9YXBpcmVzdWx0cyZ0aXRsZT1KdW5pb3IrRnJvbnQtZW5kK0RldmVsb3BlciZqaXBpZD03?source=indeed&jk=322377ec10737dc6&jlt=dDoxMCxwOjEsczoyNSxvOjI1"
+      }
+    ]
+  },
+  {
+    "site": "stepstone-de",
+    "jobs": [
+      {
+        "title": "\n(Senior) Consultant (m/w/d) Data & Web Engineer\n",
+        "company": " — \nDeloitte\n",
+        "url": "https://www.stepstone.de/stellenangebote--Senior-Consultant-m-w-d-Data-Web-Engineer-Berlin-Duesseldorf-Frankfurt-am-Main-Muenchen-Deloitte--5444281-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=1_1_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\n(Senior) Consultant (m/w/d) SAPUI5 / Web Development und SAP Fiori\n",
+        "company": " — \nDeloitte\n",
+        "url": "https://www.stepstone.de/stellenangebote--Senior-Consultant-m-w-d-SAPUI5-Web-Development-und-SAP-Fiori-Duesseldorf-Berlin-Frankfurt-Hamburg-Hannover-Stuttgart-Walldorf-Muenchen-Deloitte--4500414-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=2_2_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nSoftwareentwickler w/m/d – (Java/Web)\n",
+        "company": " — \nComputacenter AG & Co. oHG\n",
+        "url": "https://www.stepstone.de/stellenangebote--Softwareentwickler-w-m-d-ndash-Java-Web-Muenchen-Hannover-Berlin-Nuernberg-Ratingen-bei-Duesseldorf-Hamburg-Frankfurt-Ludwigshafen-Computacenter-AG-Co-oHG--5696942-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=3_3_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nDas Web ist dein Handwerk, das Team deine Leidenschaft! (Senior) JAVA Entwickler (w/m/d) am Standort Frankfurt oder Berlin gesucht\n",
+        "company": " — \nDeutsche Bahn AG\n",
+        "url": "https://www.stepstone.de/stellenangebote--Das-Web-ist-dein-Handwerk-das-Team-deine-Leidenschaft-Senior-JAVA-Entwickler-w-m-d-am-Standort-Frankfurt-oder-Berlin-gesucht-Frankfurt-am-Main-Berlin-Deutsche-Bahn-AG--5660158-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=4_4_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nJava Web Developer / Softwareentwickler (m/w/d) in Berlin, Frankfurt am Main oder Braunschweig\n",
+        "company": " — \npro!vision GmbH\n",
+        "url": "https://www.stepstone.de/stellenangebote--Java-Web-Developer-Softwareentwickler-m-w-d-in-Berlin-Frankfurt-am-Main-oder-Braunschweig-Berlin-Frankfurt-am-Main-oder-Braunschweig-provision-GmbH--4801140-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=5_5_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nWeb Frontend Developer (m/w/d) in Berlin, Frankfurt am Main oder Braunschweig\n",
+        "company": " — \npro!vision GmbH\n",
+        "url": "https://www.stepstone.de/stellenangebote--Web-Frontend-Developer-m-w-d-in-Berlin-Frankfurt-am-Main-oder-Braunschweig-Berlin-Frankfurt-am-Main-Braunschweig-provision-GmbH--5137392-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=6_6_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nSenior Solution Engineer / Web Developer E-Commerce (m/w/d)\n",
+        "company": " — \nMobizcorp Europe Ltd.\n",
+        "url": "https://www.stepstone.de/stellenangebote--Senior-Solution-Engineer-Web-Developer-E-Commerce-m-w-d-Berlin-Potsdam-Viernheim-Mobizcorp-Europe-Ltd--5599031-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=7_7_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\n(Senior) Frontend Web Developer (m/w/d) in der Projektentwicklung\n",
+        "company": " — \nsmarthouse adesso financial solutions GmbH\n",
+        "url": "https://www.stepstone.de/stellenangebote--Senior-Frontend-Web-Developer-m-w-d-in-der-Projektentwicklung-Karlsruhe-Frankfurt-Main-Aachen-Duesseldorf-Berlin-smarthouse-adesso-financial-solutions-GmbH--5594006-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=8_8_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nFull Stack-Entwickler (w/m/d) für Webanwendungen\n",
+        "company": " — \nAVM Computersysteme Vertriebs GmbH\n",
+        "url": "https://www.stepstone.de/stellenangebote--Full-Stack-Entwickler-w-m-d-fuer-Webanwendungen-Berlin-AVM-Computersysteme-Vertriebs-GmbH--5410976-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=9_9_10_dynrl_m_0_0_0"
+      },
+      {
+        "title": "\nFrontend Entwickler für Web-Anwendungen (m/w/d)\n",
+        "company": " — \nLidl Digital International GmbH & Co. KG\n",
+        "url": "https://www.stepstone.de/stellenangebote--Frontend-Entwickler-fuer-Web-Anwendungen-m-w-d-Heilbronn-und-Berlin-Lidl-Digital-International-GmbH-Co-KG--5690021-inline.html?suid=e5ecb460-d50b-4c57-949d-739dc5172586&rltr=10_10_10_dynrl_m_0_0_0"
+      }
+    ]
+  },
+  {
+    "site": "indeed-de",
+    "jobs": [
+      {
+        "title": "Software Entwickler Webentwicklung (m/w/div)",
+        "company": " — \n        \n        SeyVillas GmbH",
+        "url": "/pagead/clk?mo=r&ad=-6NYlbfkN0DDRDfQjEdOixMfxHGhwprFVr-wOVlz1noyNnzkM00A-pyVU4e0tEGjZWpDVa4rPXH5mPIFk9b5lz1RAnbSGLIWahmcUfPdfD0xkIADWoi9-j_luJ8cMU-ixlQqiOo3Ko-07hntn-Kld7e3N2WN9r15L2m1I9lgflvJlWfvyXXXzHZUcn3mwFwIyzufnsiSvBRI8b3SF8Za9Pa0gZnAJBb4WvGIf2ci4E6_zCoe5Pblp7njv69_nkCf7zWGAltsDvpyjAuatw4f7bS48CG2G7XUE_xi09MaA50ck1RXk3dwWFnxrROrK1Z50ffA1G8VOJ1hAK853AFQY1opybHcm0j7ctdLOqR40ZqjHp7N1G7TDb5LfhTZWDitZzzBQgi_hDUm6t6SJmtjioMTtRnQUO3849l8jq0y9bYm8-zko3Fl7RpJcbriWUuI6Npu3G6n5SE=&vjs=3&p=1&sk=&fvj=1"
+      },
+      {
+        "title": "Software Entwickler (m/w/div) - Schwerpunkt Web-Frontend-Ent...",
+        "company": " — \n        \n        SeyVillas GmbH",
+        "url": "/pagead/clk?mo=r&ad=-6NYlbfkN0DDRDfQjEdOixMfxHGhwprFVr-wOVlz1noyNnzkM00A-jekNQPDaIMZBhhG6uWk1WarM4jnYwux7dhm123sSRJcCqf8dH6rDOpKFOUBY1RUy3nbuUUCZZKr7JTEfsDS7wa0Q0nT69pzWiaAxwgZa3M7EoNwcSkUI2fgNuLLI3g926bBhIwL6LaL3sRu-CDJc27oIozYBux8dOnIRrByrbcRa_MJXnaKc6FxcJOmT9Q2AzUGk11C7jWmjZ4J6GyfwXApksn42YB51tVvjbxCP24ufA9oPg6V3VxdVylhU7sp7PW93g4tWfDBKHvLyo_ihPWJpktR1YgrC-Hy1X1fOl2e3R0RrajmO3iV7IrJxbIIitBg9q2PcBPL3MAxF_FtSJR8HFchZ2vsi_wTcitNb_wCMH_SbAe-srEDQFOOJW-NAmWvI20xyV8K2r36_psQ_pmx2wEDmyZ08FaVZ-DgEI_wC1SAQRFOa1o=&vjs=3&p=2&sk=&fvj=1"
+      },
+      {
+        "title": "Tech Lead – Mobile and Web (m/f/d)",
+        "company": " — \n        Smartfrog Services GmbH",
+        "url": "/pagead/clk?mo=r&ad=-6NYlbfkN0A5OspAwuJFw_vvJ1kmDCwQt1dGN1svIA7DmL5RoURsBduMIDedtlmTfuJ_fal8QDdoL1U_Y89XTQKCItOLk8E6Gw0KvIUiHXnjM28MoR3iXwXYDt7IFfW03sLmeT5GBdafkMwuVFzmYi2IxHhX7Jj9PLoaXY4pypnF7_dYM3CfSW7_Wzxt5qWEbiiwdn81AtDlq7OgP-d8sPl6tP5bOU634-ASHb5pbH_VZ8dDJQ_iIlYqbgWgCgWlORsBGa3d-apgHwKINniE07mGPs9ELibNu9bqjnifGhNaYjuRYIkUZqOvoKdBqwJO4wnIa8-f-Suy2LWd3Pf0jlNtVx7voXhicvcRt_4DHxLe9atD3qad2cDTz9wno6IS0VnxT5gOkOcWWZrPr4tVy-wzaF2pHU8SIIWoB9O085Y=&vjs=3&p=3&sk=&fvj=0"
+      },
+      {
+        "title": "Frontend Web-Entwickler [m/w/d]",
+        "company": " — \n        subtel GmbH",
+        "url": "/pagead/clk?mo=r&ad=-6NYlbfkN0AgLaLVRfiPcfoqwtbJcxGONKF2ni2IqUJ52eHo79FsCYlBx1XwpCKOrqTiokSJQ4aXH9LcQE7wDPiqfPB6RLlA7ojpRSo_kQHGJGNyobcAlzs6eIvcHCOJ7d6YwKwoFHHGvzc8ekhiR_phZXmgvweB6Vutf9kB0B0OAFocxn3D6Xo2oBhi8A9GL6pNMzWijt92CDxqIesn-t81utHmUzkwvUCvrhqfjXcD1wIGeOJs61Nqswx4pvxU4C3XRgNsA5pxegv85SUwLHB4lztxIVf90DsKxcfuMwrQI6KLJ1wtviWIOnS-a1vW1DLjfHTSsGkWBHvAAZ2C1zhQXvtYx1-PcJr3kkVd_JfgKIu6FUMrirXWU9nDSPc3fPV8OtfI158f4fge_C1ebxLiup7Vwuq5tbQ1NsEuVHuWudZiNpq0gyMyhkg5ccyu&vjs=3&p=4&sk=&fvj=1"
+      },
+      {
+        "title": "\n    3. Datenerfassung auf unserer Website\n    ",
+        "company": " — \n        \n        customer-partners gmbh",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Freelancer / Freier Mitarbeiter Webdesign\n    ",
+        "company": " — \n        ISB Zentrum GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Mitarbeiter (w/m) Relaunch u. Betreuung Website\n    ",
+        "company": " — \n        BWK BildungsWerk in Kreuzberg",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webdesigner/in / Grafiker/in\n    ",
+        "company": " — \n        TenMedia UG (haftungsbeschränkt)",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Screen / Web Designer (f/m/d)\n    ",
+        "company": " — \n        we.CONECT Global Leaders",
+        "url": "undefined"
+      },
+      { "title": "\n    Web Designer - Berlin\n    ", "company": " — \n        Healy World GmbH", "url": "undefined" },
+      {
+        "title": "\n    Web Developer Frontend | Freelance\n    ",
+        "company": " — \n        solvemate GmbH",
+        "url": "undefined"
+      },
+      { "title": "\n    Web Development Intern\n    ", "company": " — \n        Azerion", "url": "undefined" },
+      {
+        "title": "\n    Web Analyst (m/w/d)\n    ",
+        "company": " — \n        mcs marketing communication solution GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Digital Analyst / Web Analyst (befristet auf 18 Monate)\n    ",
+        "company": " — \n        myToys",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    ad modum: Webdesigner(in)\n    ",
+        "company": " — \n        media.net berlinbrandenburg",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Intern Website- und Web-Anwendungen\n    ",
+        "company": " — \n        RCKT",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Lecturer Web Development Berlin (m/w/d)\n    ",
+        "company": " — \n        Digital Career Institute",
+        "url": "undefined"
+      },
+      { "title": "\n    Web Engineer\n    ", "company": " — \n        Onefootball", "url": "undefined" },
+      {
+        "title": "\n    Freelance Copywriter (m/f/d) Für unsere französische Website\n    ",
+        "company": " — \n        \n        Mister Spex GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Web Entwickler/in Teilzeit\n    ",
+        "company": " — \n        Funke Digital GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Mediengestalter Print und Web (m/w)\n    ",
+        "company": " — \n        BRAINS Werbeagentur GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Dozent \"Texten fürs Web\"\n    ",
+        "company": " — \n        ecomex GmbH & Co. KG",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Mediengestalter Web (m/w)\n    ",
+        "company": " — \n        BRAINS Werbeagentur GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Praxisqualifizierung \"GIS und Webmapping\" in Berlin\n    ",
+        "company": " — \n        GIS-Akademie mit gis-trainer.de",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Web- und Anwendungsentwickler\n    ",
+        "company": " — \n        Strachwitz&Gerhard optimierte Werbung GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webdesigner (m/w/d)\n    ",
+        "company": " — \n        \n        Websitebutler GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Junior Frontend Engineer - Amazon Web Services\n    ",
+        "company": " — \n        \n        Amazon Development Center DEU",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webdesigner / Grafiker am Standort Berlin (m/w/d)\n    ",
+        "company": " — \n        muun GmbH",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webentwickler (m/w)\n    ",
+        "company": " — \n        arTec visual solution",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Neu- und Weiterentwicklung von Web-Applikationen\n    ",
+        "company": " — \n        \n        DLR - Deutsches Zentrum für Luft- und Raumfahrt",
+        "url": "undefined"
+      },
+      { "title": "\n    Web Developer - Berlin\n    ", "company": " — \n        Healy World GmbH", "url": "undefined" },
+      {
+        "title": "\n    Web Development Enthusiast (m/w/d)\n    ",
+        "company": " — \n        DEINHANDY.",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webdesigner / Grafiker (m/w)\n    ",
+        "company": " — \n        Gyding UG (haftungsbeschränkt)",
+        "url": "undefined"
+      },
+      { "title": "\n    Junior Front-End Web Engineer\n    ", "company": " — \n        Made for_", "url": "undefined" },
+      {
+        "title": "\n    Projektmitarbeiter_in Webrelaunch\n    ",
+        "company": " — \n        Deutsches Institut für Menschenrechte",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Webdesigner / Grafiker (m/w/d)\n    ",
+        "company": " — \n        Quirin Privatbank AG",
+        "url": "undefined"
+      },
+      { "title": "\n    Web Designer (m/w/d)\n    ", "company": " — \n        ic!berlin", "url": "undefined" },
+      { "title": "\n    UX & Web Consultant\n    ", "company": " — \n        RCKT", "url": "undefined" },
+      { "title": "\n    Web Analyst\n    ", "company": " — \n        \n        Takeaway.com", "url": "undefined" },
+      {
+        "title": "\n    Trainee (m/w/d) Web Development\n    ",
+        "company": " — \n        muehlhausmoers corporate communications gmbh",
+        "url": "undefined"
+      },
+      {
+        "title": "\n    Web Frontend Entwickler (m/w/d)\n    ",
+        "company": " — \n        EPI development",
+        "url": "undefined"
+      },
+      {
+        "title": "Webentwickler / Webdesigner Vollzeit (w/m/d): Viel Verantwor...",
+        "company": " — \n        Hohmann Media",
+        "url": "/pagead/clk?mo=r&ad=-6NYlbfkN0BxKwB7Y8RgBeyOd9LkZXAlWpcSTZUWYHvnm56bHZPapcQoVNSHhUMx9QvJjyzuedeiD02hPhvxcfw1ZZZs5y150hnjtO_CAkWIB-6zXhiYlxNfUTrnWHJ3XvPrdXYUBV9jN6lIXdzPL0dv6gR39iiW3mTd-QgxJGaDau9hdX7kbbm1_x22qLQj7tds-o5Ue2BEctflrXdXLg4dhJ6YHPNb8h7kMtKKYfGad7JXrRcazDNfuja8yxCpI4pJ_sNMgpoyVL2lzSejzJX2cbamG8GIYv_UDfENfRY8-AtwYXBeRaiRLTXUaSFr1UlaMQomu65zu5RO6ch-wrJW32wGhE9hYkem6hm_B--1E7sRlIWFiaShx8T-rqJcaxf-sLYmgy_P6uRyTNJZsOnrWMrAAvMXsu1H6moAYpJIHZ_VOZIgNZLmmXp-KbTX1o9ecPmrtqxYxeBwt7q9-1IhA3Y4kyYVYjoduQgyryE6-ARBvmN-wA==&vjs=3&p=6&sk=&fvj=1"
+      }
+    ]
+  },
+  {
+    "site": "stackoverflow",
+    "jobs": [
+      {
+        "title": "DevOps Engineer / System Administrator (m/f/d)",
+        "company": " — CeleraOne GmbH\n        ",
+        "url": "/jobs/147533/devops-engineer-system-administrator-m-f-d-celeraone-gmbh?a=NtDyZofjIUE&so=i&pg=1&offset=2&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Backend Developer Python / Software Developer Python (m/f/d)",
+        "company": " — CeleraOne GmbH\n        ",
+        "url": "/jobs/166805/backend-developer-python-software-developer-celeraone-gmbh?a=TWmdVy5Ffdm&so=i&pg=1&offset=3&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Java Backend Engineer (m/w) – P2P Kreditplattform",
+        "company": " — Smava GmbH\n        ",
+        "url": "/jobs/251397/senior-java-backend-engineer-m-w-p2p-smava-gmbh?a=1mjgy2VrMx7W&so=i&pg=1&offset=4&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "DevOps Infrastructure Engineer (m/f) - Platform Automation",
+        "company": " — Smava GmbH\n        ",
+        "url": "/jobs/251378/devops-infrastructure-engineer-m-f-platform-smava-gmbh?a=1miS3pXdGi3u&so=i&pg=1&offset=5&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "(/Junior) Google Apps Script Engineer (d/f/m)",
+        "company": " — AUTO1\n        ",
+        "url": "/jobs/251353/junior-google-apps-script-engineer-d-f-m-auto1?a=1milPdPLl1ug&so=i&pg=1&offset=6&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Javascript Engineer (d/f/m)",
+        "company": " — AUTO1\n        ",
+        "url": "/jobs/251327/senior-javascript-engineer-d-f-m-auto1?a=1mhOj6bLCAkU&so=i&pg=1&offset=7&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "DevOps Software Engineer (m/f) - Platform",
+        "company": " — Smava GmbH\n        ",
+        "url": "/jobs/251325/devops-software-engineer-m-f-platform-smava-gmbh?a=1mhLJf8GSfaE&so=i&pg=1&offset=8&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Android Engineer (d/f/m)",
+        "company": " — AUTO1\n        ",
+        "url": "/jobs/251324/senior-android-engineer-d-f-m-auto1?a=1mhKrjC9v4Aw&so=i&pg=1&offset=9&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "UX Expert Conversational Frontend (m/w/d)",
+        "company": " — Unitymedia Service GmbH\n        ",
+        "url": "/jobs/250971/ux-expert-conversational-frontend-m-w-d-unitymedia-service-gmbh?a=1mapmNm8zOSY&so=i&pg=1&offset=11&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "DevOps Engineer (m/f/x)",
+        "company": " — plista GmbH\n        ",
+        "url": "/jobs/244599/devops-engineer-m-f-x-plista-gmbh?a=1k1UQJgbebKM&so=i&pg=1&offset=12&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "PHP Backend Developer (m/f/x)",
+        "company": " — plista GmbH\n        ",
+        "url": "/jobs/244601/php-backend-developer-m-f-x-plista-gmbh?a=1k1XqAjfYwV2&so=i&pg=1&offset=13&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Web Developer PHP / JavaScript (m/w/x)",
+        "company": " — plista GmbH\n        ",
+        "url": "/jobs/244600/senior-web-developer-php-javascript-m-w-x-plista-gmbh?a=1k1W8EMIBmkU&so=i&pg=1&offset=14&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Frontend Developer (f/m/x)",
+        "company": " — diconium\n        ",
+        "url": "/jobs/250646/frontend-developer-f-m-x-diconium?a=1m3EofNc7lv2&so=i&pg=1&offset=16&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Java Developer / Engineer (f/m/x)",
+        "company": " — diconium\n        ",
+        "url": "/jobs/250644/java-developer-engineer-f-m-x-diconium?a=1m3BYobr2Epi&so=i&pg=1&offset=17&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "(Senior) DevOps Engineer (w/m/x)",
+        "company": " — diconium\n        ",
+        "url": "/jobs/250642/senior-devops-engineer-w-m-x-diconium?a=1m3zox8mijf2&so=i&pg=1&offset=18&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "company": " — Zalando SE\n        ",
+        "url": "/jobs/250641/senior-data-engineer-zalando-se?a=1m3xWCavfuAo&so=i&pg=1&offset=19&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Test Manager/ Engineer (w/m/x)",
+        "company": " — diconium\n        ",
+        "url": "/jobs/250640/test-manager-engineer-w-m-x-diconium?a=1m3wEGDXSk0g&so=i&pg=1&offset=20&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior Backend Engineer - PHP",
+        "company": " — WeQ Global Tech GmbH\n        ",
+        "url": "/jobs/234401/senior-backend-engineer-php-weq-global-tech-gmbh?a=1gBS0PeK1v6U&so=i&pg=1&offset=21&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Senior DevOps Engineer - Java",
+        "company": " — WeQ Global Tech GmbH\n        ",
+        "url": "/jobs/234396/senior-devops-engineer-java-weq-global-tech-gmbh?a=1gBLzbC39Ecg&so=i&pg=1&offset=22&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Lead Backend Developer PHP (m/f/d)",
+        "company": " — Productsup GmbH\n        ",
+        "url": "/jobs/250625/lead-backend-developer-php-m-f-d-productsup-gmbh?a=1m3djLLTgLgk&so=i&pg=1&offset=23&total=420&l=berlin&u=Km&d=20"
+      },
+      {
+        "title": "Javascript Developer (w/m/x)",
+        "company": " — diconium\n        ",
+        "url": "/jobs/250622/javascript-developer-w-m-x-diconium?a=1m39BYDAOTAs&so=i&pg=1&offset=24&total=420&l=berlin&u=Km&d=20"
+      }
+    ]
+  },
+  {
+    "site": "get-in-it",
+    "jobs": [
+      {
+        "title": "Frontend Developer (m/w/d) für moderne Clients",
+        "company": " — OPITZ CONSULTING Deutschland GmbH",
+        "url": "https://www.get-in-it.de/jobsuche/p44595?ref=Jobsuche"
+      },
+      {
+        "title": "DevOps Database Engineer (m/w/d)",
+        "company": " — DATEV eG",
+        "url": "https://www.get-in-it.de/jobsuche/p43982?ref=Jobsuche"
+      },
+      {
+        "title": "Mobile Developer Android (m/w/d)",
+        "company": " — Reply AG",
+        "url": "https://www.get-in-it.de/jobsuche/p35777?ref=Jobsuche"
+      },
+      {
+        "title": "Young Professional Software Entwickler (m/w/d) für Java und .NET",
+        "company": " — Talentschmiede Unternehmensberatung AG",
+        "url": "https://www.get-in-it.de/jobsuche/p12270?ref=Jobsuche"
+      },
+      {
+        "title": "Systementwickler Windows Terminalserver (w/m/d)",
+        "company": " — Finanz Informatik",
+        "url": "https://www.get-in-it.de/jobsuche/p33788?ref=Jobsuche"
+      },
+      {
+        "title": "Praktikant in der Softwareentwicklung (m/w/d)",
+        "company": " — CENIT AG",
+        "url": "https://www.get-in-it.de/jobsuche/p34928?ref=Jobsuche"
+      },
+      {
+        "title": "Softwareentwickler (m/w/d) Embedded",
+        "company": " — FERCHAU Engineering GmbH",
+        "url": "https://www.get-in-it.de/jobsuche/p26952?ref=Jobsuche"
+      },
+      {
+        "title": "DevOps Engineer / Systemadministrator - Linux (Informatiker / Wirschaftsinformatiker / Fachinformatiker o.Ä.) (m/w/d)",
+        "company": " — CeleraOne",
+        "url": "https://www.get-in-it.de/jobsuche/p54209?ref=Jobsuche"
+      },
+      {
+        "title": "IT-System Engineer Microsoft (w/m/d)",
+        "company": " — commehr",
+        "url": "https://www.get-in-it.de/jobsuche/p29391?ref=Jobsuche"
+      },
+      {
+        "title": "Studentische Mitarbeiter (m/w/d) Softwareentwicklung Java",
+        "company": " — adesso AG",
+        "url": "https://www.get-in-it.de/jobsuche/p8539?ref=Jobsuche"
+      },
+      {
+        "title": "Java-Entwickler (m/w/d) für Softwaresysteme",
+        "company": " — ROHDE & SCHWARZ GmbH & Co. KG",
+        "url": "https://www.get-in-it.de/jobsuche/p32708?ref=Jobsuche"
+      },
+      {
+        "title": "Projektleiter | Software- und Funktionsentwicklung (m/w/d)",
+        "company": " — ASAP Holding GmbH",
+        "url": "https://www.get-in-it.de/jobsuche/p44226?ref=Jobsuche"
+      }
+    ]
+  },
+  {
+    "site": "moberries",
+    "jobs": [
+      {
+        "title": "(Senior) Javascript Developer (m/f/d) with Angular 2+",
+        "company": " — allmyhomes GmbH",
+        "url": "https://www.moberries.com/job/1958446_senior-javascript-developer-mfd-with-angular-2_allmyhomes-gmbh"
+      },
+      {
+        "title": "Frontend Developer (w/m/d)",
+        "company": " — SuperVista",
+        "url": "https://www.moberries.com/job/1957105_frontend-developer-wmd_supervista"
+      },
+      {
+        "title": "Backend Developer (w/m/d)",
+        "company": " — SuperVista",
+        "url": "https://www.moberries.com/job/1957106_backend-developer-wmd_supervista"
+      },
+      {
+        "title": "Software Engineer, ReactJS (m/f/d)",
+        "company": " — Choco Communications GmbH",
+        "url": "https://www.moberries.com/job/1957522_software-engineer-reactjs-mfd_choco-communications-gmbh"
+      },
+      {
+        "title": "Frontend Developer (m/f/d)",
+        "company": " — Medicinisto AG",
+        "url": "https://www.moberries.com/job/1958223_frontend-developer-mfd_medicinisto-ag"
+      },
+      {
+        "title": "Software Project Manager (w/m/d)",
+        "company": " — SuperVista",
+        "url": "https://www.moberries.com/job/1957107_software-project-manager-wmd_supervista"
+      },
+      {
+        "title": "(Senior) Java Engineer (m/f/d)",
+        "company": " — audibene",
+        "url": "https://www.moberries.com/job/1958254_senior-java-engineer-mfd_audibene"
+      }
+    ]
+  }
+]

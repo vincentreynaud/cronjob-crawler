@@ -15,10 +15,16 @@ const crawl = require("./crawl");
 const inspect = require("./lib/inspect/inspect");
 const mail = require("./mail");
 
+const previousJobs = require("../jobs.json");
+
 (async () => {
   const content = await crawl();
+  // save content to json file
+  // fs.writeFileSync("./jobs.json", JSON.stringify(content)); //
 
-  console.log("content", content[0].jobs);
+  // loop through content
+
+  console.log("content", content[1].jobs);
 
   const html = pug.renderFile("./src/lib/email.pug", { content });
   fs.writeFileSync("./src/lib/email.html", html);
