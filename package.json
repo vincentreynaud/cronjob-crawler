@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "dotenv": "^6.2.0",
-    "fs": "0.0.1-security",
-    "nodemailer": "^5.1.1",
+    "dotenv": "^8.0.0",
+    "fs": "0.0.2",
+    "nodemailer": "^6.2.1",
     "pug": "^2.0.3",
     "request": "^2.88.0"
   },
