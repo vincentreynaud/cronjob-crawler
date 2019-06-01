@@ -4,7 +4,7 @@ const request = require("request");
 const util = require("util");
 
 const promisifiedRequest = util.promisify(request);
-const { portals } = require("../search");
+const { portals } = require("./search");
 
 const inspect = async () => {
   console.time("TimeConsumed");
