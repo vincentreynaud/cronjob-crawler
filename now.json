@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cronjob-crawler",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/node"
+    }
+  ]
+}
