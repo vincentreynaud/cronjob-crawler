@@ -46,6 +46,9 @@ async function run() {
   await mail(html);
 }
 
+run();
+console.log(process.env.MAIL_USER);
+
 cron.schedule(interval, () => {
   console.log("Cronjob is running: ", interval);
   run();
